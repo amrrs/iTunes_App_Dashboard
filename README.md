@@ -5,7 +5,7 @@ RShiny Dashbord to visualize iTunes App Reviews, Ratings Split %, Daily Average 
 
 ## How to use this code:
 
-### Install the following packages:
+### 1. Install the following packages:
 * install.packages('shiny')
 * install.packages('shinydashboard')
 * install.packages('ggplot2')
@@ -15,7 +15,7 @@ RShiny Dashbord to visualize iTunes App Reviews, Ratings Split %, Daily Average 
 * install.packages('lubridate')
 * install.packages('scales')
 
-### Replace the current app_id with your desired app_id
+### 2. Replace the current app_id with your desired app_id
 
 #### Planned Developments:
  * Get App ID from user as user input
